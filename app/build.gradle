@@ -27,7 +27,7 @@ android {
         playStore
     }
     compileSdkVersion 33
-    buildToolsVersion '33.0.2'
+    buildToolsVersion '33.0.3'
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 31
